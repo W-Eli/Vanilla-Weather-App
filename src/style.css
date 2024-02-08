@@ -1,0 +1,15 @@
+body {
+  background: #f9f7fe;
+  font-family: "Agbalumo", system-ui;
+  font-family: "Cute Font", sans-serif;
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+.weather-app {
+  background: white;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 40px;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 16px;
+}
